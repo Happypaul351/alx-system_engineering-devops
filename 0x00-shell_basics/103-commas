@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aFd 
+ls -alFd 
